@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloraMQ.Core", "FloraMQ.Core\FloraMQ.Core.csproj", "{EE2044E0-C201-403A-9CEA-ACBDC016A488}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{77FFC167-171C-4506-BA11-4067862B3CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloraMQ.Core.Test", "FloraMQ.Core.Test\FloraMQ.Core.Test.csproj", "{39DB0B6C-B68D-453E-9280-BC5C82A47BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2044E0-C201-403A-9CEA-ACBDC016A488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2044E0-C201-403A-9CEA-ACBDC016A488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2044E0-C201-403A-9CEA-ACBDC016A488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2044E0-C201-403A-9CEA-ACBDC016A488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39DB0B6C-B68D-453E-9280-BC5C82A47BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39DB0B6C-B68D-453E-9280-BC5C82A47BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39DB0B6C-B68D-453E-9280-BC5C82A47BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39DB0B6C-B68D-453E-9280-BC5C82A47BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39DB0B6C-B68D-453E-9280-BC5C82A47BE8} = {77FFC167-171C-4506-BA11-4067862B3CC3}
+	EndGlobalSection
+EndGlobal
